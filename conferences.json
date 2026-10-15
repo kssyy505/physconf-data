@@ -1,0 +1,1030 @@
+{
+  "schema": 1,
+  "version": "2026-10-13",
+  "updatedAt": "2026-10-13T09:00:00+09:00",
+  "categories": [
+    {
+      "id": "DEV",
+      "name": "Devices & Process",
+      "nameKo": "반도체 소자·공정",
+      "color": "#1565C0"
+    },
+    {
+      "id": "CIR",
+      "name": "Circuits & Systems",
+      "nameKo": "회로·시스템",
+      "color": "#00695C"
+    },
+    {
+      "id": "MAT",
+      "name": "Materials & Nano",
+      "nameKo": "재료·나노",
+      "color": "#6A1B9A"
+    },
+    {
+      "id": "PHY",
+      "name": "Physics",
+      "nameKo": "물리 일반·응집물질",
+      "color": "#4E342E"
+    },
+    {
+      "id": "QNT",
+      "name": "Quantum",
+      "nameKo": "양자정보·양자소자",
+      "color": "#AD1457"
+    },
+    {
+      "id": "NEU",
+      "name": "Neuromorphic & AI HW",
+      "nameKo": "뉴로모픽·AI 하드웨어",
+      "color": "#E65100"
+    },
+    {
+      "id": "OPT",
+      "name": "Optics & Photonics",
+      "nameKo": "광학·포토닉스",
+      "color": "#00838F"
+    },
+    {
+      "id": "IND",
+      "name": "Industry & Expo",
+      "nameKo": "산업·전시",
+      "color": "#546E7A"
+    }
+  ],
+  "conferences": [
+    {
+      "id": "iedm2026",
+      "series": "iedm",
+      "short": "IEDM 2026",
+      "name": "IEEE International Electron Devices Meeting",
+      "edition": 2026,
+      "categories": [
+        "DEV",
+        "NEU",
+        "QNT"
+      ],
+      "region": "INTL",
+      "start": "2026-12-12",
+      "end": "2026-12-16",
+      "city": "San Francisco",
+      "venue": "Hilton San Francisco Union Square",
+      "country": "USA",
+      "lat": 37.7856,
+      "lng": -122.4103,
+      "website": "https://www.ieee-iedm.org",
+      "deadlines": [
+        {
+          "type": "paper",
+          "at": "2026-07-17T06:59:00Z",
+          "tz": "PDT"
+        },
+        {
+          "type": "latenews",
+          "at": "2026-08-19T06:59:00Z",
+          "tz": "PDT",
+          "timeUnknown": true
+        }
+      ],
+      "description": "전자소자 분야 학회. 2026 CFP 기준 분과: Advanced Logic, Emerging Device & Compute, Memory, Modeling & Simulation, Neuromorphic & Novel Computing, Optoelectronics/Displays/Imagers, Power·mmWave·Analog, Reliability, Sensors·MEMS·Bioelectronics.",
+      "descriptionEn": "Electron devices meeting. 2026 CFP subcommittees include Advanced Logic, Emerging Device & Compute, Memory, Modeling & Simulation, Neuromorphic & Novel Computing, ODI, PMA, Reliability, SMB.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "IEDM 2026 Call for Papers (PDF)",
+          "url": "https://ieee-iedm.org/wp-content/uploads/2026/07/IEDM-2026-Call-for-Papers-FINAL.pdf"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "isscc2027",
+      "series": "isscc",
+      "short": "ISSCC 2027",
+      "name": "IEEE International Solid-State Circuits Conference",
+      "edition": 2027,
+      "categories": [
+        "CIR"
+      ],
+      "region": "INTL",
+      "start": "2027-02-14",
+      "end": "2027-02-18",
+      "city": "San Francisco",
+      "venue": "San Francisco Marriott Marquis",
+      "country": "USA",
+      "lat": 37.7852,
+      "lng": -122.4045,
+      "website": "https://www.isscc.org",
+      "deadlines": [
+        {
+          "type": "paper",
+          "at": "2026-09-09T19:00:00Z",
+          "tz": "EDT 15:00"
+        }
+      ],
+      "description": "집적회로 분야 학회. 초록과 원고를 같은 마감일(2026-09-09 15:00 EDT)에 함께 제출.",
+      "descriptionEn": "Solid-state circuits conference. Abstract and manuscript were due together (Sep 9, 2026, 3 PM EDT).",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "ISSCC 2027 CFP (PDF)",
+          "url": "https://sscs.ieee.org/wp-content/uploads/ISSCC2027CFP.pdf"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "vlsi2027",
+      "series": "vlsi",
+      "short": "VLSI 2027",
+      "name": "Symposium on VLSI Technology and Circuits",
+      "edition": 2027,
+      "categories": [
+        "DEV",
+        "CIR"
+      ],
+      "region": "INTL",
+      "start": "2027-06-20",
+      "end": "2027-06-24",
+      "city": "Kyoto",
+      "venue": "Rihga Royal Hotel Kyoto",
+      "country": "Japan",
+      "lat": 34.9862,
+      "lng": 135.754,
+      "website": "https://www.vlsisymposium.org",
+      "deadlines": [
+        {
+          "type": "paper",
+          "at": "2027-01-25T14:59:00Z",
+          "tz": "JST"
+        }
+      ],
+      "description": "반도체 공정·소자 기술과 회로를 함께 다루는 심포지엄.",
+      "descriptionEn": "Symposium covering VLSI technology and circuits.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "VLSI 2027 1st CFP (PDF)",
+          "url": "https://www.vlsisymposium.org/assets/pdf/VLSI2027_1stCFP.pdf"
+        },
+        {
+          "title": "VLSI Symposium 홈페이지",
+          "url": "https://www.vlsisymposium.org/"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "irps2027",
+      "series": "irps",
+      "short": "IRPS 2027",
+      "name": "IEEE International Reliability Physics Symposium",
+      "edition": 2027,
+      "categories": [
+        "DEV"
+      ],
+      "region": "INTL",
+      "start": "2027-03-21",
+      "end": "2027-03-25",
+      "city": "San Diego",
+      "venue": "Town and Country",
+      "country": "USA",
+      "lat": 32.7676,
+      "lng": -117.1636,
+      "website": "https://www.irps.org",
+      "deadlines": [
+        {
+          "type": "abstract",
+          "at": "2026-10-19T06:59:00Z",
+          "tz": "PDT"
+        },
+        {
+          "type": "latenews",
+          "at": "2027-01-19T07:59:00Z",
+          "tz": "PST",
+          "timeUnknown": true
+        }
+      ],
+      "pendingNote": "공식 페이지에 초록 마감이 \"12 October → 18 October\"로 수정 표기됨(연도 미표기). 18일 기준으로 입력.",
+      "description": "반도체 소자·회로의 신뢰성 물리를 다루는 심포지엄.",
+      "descriptionEn": "Reliability physics of semiconductor devices and circuits.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "IRPS Abstract Submission",
+          "url": "https://www.irps.org/abstract-submission"
+        },
+        {
+          "title": "IRPS Future Conferences",
+          "url": "https://www.irps.org/future-conferences-3"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "edtm2027",
+      "series": "edtm",
+      "short": "EDTM 2027",
+      "name": "IEEE Electron Devices Technology and Manufacturing Conference",
+      "edition": 2027,
+      "categories": [
+        "DEV"
+      ],
+      "region": "INTL",
+      "start": "2027-03-08",
+      "end": "2027-03-11",
+      "city": "Fukuoka",
+      "country": "Japan",
+      "lat": 33.5902,
+      "lng": 130.4017,
+      "website": "https://attend.ieee.org/edtm-2027",
+      "deadlines": [],
+      "pendingNote": "논문 제출 기간이 \"Early August ~ Mid-October, 2026\"으로만 공지됨 — 정확한 마감일 미확인.",
+      "description": "전자소자 기술과 제조를 다루는 IEEE EDS 학회.",
+      "descriptionEn": "IEEE EDS conference on electron device technology and manufacturing.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "EDTM 2027",
+          "url": "https://attend.ieee.org/edtm-2027"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "ispsd2027",
+      "series": "ispsd",
+      "short": "ISPSD 2027",
+      "name": "International Symposium on Power Semiconductor Devices and ICs",
+      "edition": 2027,
+      "categories": [
+        "DEV"
+      ],
+      "region": "INTL",
+      "start": "2027-06-13",
+      "end": "2027-06-17",
+      "city": "Taipei",
+      "venue": "TICC",
+      "country": "Taiwan",
+      "lat": 25.0336,
+      "lng": 121.5602,
+      "website": "https://semihub.io/",
+      "deadlines": [
+        {
+          "type": "paper",
+          "at": "2026-12-16T15:59:00Z",
+          "tz": "Taipei",
+          "timeUnknown": true
+        }
+      ],
+      "pendingNote": "2차 출처(semihub.io) 기준. 공식 CFP로 재확인 필요.",
+      "description": "전력 반도체 소자·IC 심포지엄.",
+      "descriptionEn": "Power semiconductor devices and ICs.",
+      "verified": "secondary",
+      "sources": [
+        {
+          "title": "semihub.io 반도체 학회 일정",
+          "url": "https://semihub.io/"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "spieal2027",
+      "series": "spieal",
+      "short": "SPIE AL 2027",
+      "name": "SPIE Advanced Lithography + Patterning",
+      "edition": 2027,
+      "categories": [
+        "DEV",
+        "OPT"
+      ],
+      "region": "INTL",
+      "start": "2027-02-21",
+      "end": "2027-02-25",
+      "city": "San Jose",
+      "country": "USA",
+      "lat": 37.3297,
+      "lng": -121.8889,
+      "website": "https://spie.org",
+      "deadlines": [],
+      "pendingNote": "2차 출처(semihub.io) 기준 일정. 초록 마감 미확인.",
+      "description": "리소그래피·패터닝 공정 학회.",
+      "descriptionEn": "Lithography and patterning.",
+      "verified": "secondary",
+      "sources": [
+        {
+          "title": "semihub.io 반도체 학회 일정",
+          "url": "https://semihub.io/"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "kcs2027",
+      "series": "kcs",
+      "short": "KCS 2027",
+      "name": "The 34th Korean Conference on Semiconductors",
+      "nameKo": "제34회 한국반도체학술대회",
+      "edition": 2027,
+      "categories": [
+        "DEV",
+        "CIR",
+        "MAT"
+      ],
+      "region": "KR",
+      "start": "2027-01-26",
+      "end": "2027-01-29",
+      "city": "강릉",
+      "venue": "강릉컨벤션센터",
+      "country": "Korea",
+      "lat": 37.7738,
+      "lng": 128.9045,
+      "website": "https://www.kcsconference.org/2027/",
+      "deadlines": [
+        {
+          "type": "abstract",
+          "at": "2026-10-23T14:59:00Z",
+          "tz": "KST",
+          "timeUnknown": true
+        }
+      ],
+      "pendingNote": "초록 채택 통보 2026-12-16, 사전등록 마감 2027-01-15 (공식 페이지). 개최일·장소는 2차 출처(semihub.io).",
+      "description": "국내 반도체 학술대회. 소자·공정·회로·재료 등 반도체 전반.",
+      "descriptionEn": "Korean Conference on Semiconductors.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "KCS 2027 공식 홈페이지",
+          "url": "https://www.kcsconference.org/2027/"
+        },
+        {
+          "title": "semihub.io 반도체 학회 일정",
+          "url": "https://semihub.io/"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "icos2027",
+      "series": "icos",
+      "short": "ICOS 2027",
+      "name": "International Conference on Semiconductors (IKEEE/반도체공학회)",
+      "nameKo": "반도체공학회 국제학술대회",
+      "edition": 2027,
+      "categories": [
+        "DEV",
+        "CIR"
+      ],
+      "region": "INTL",
+      "start": "2027-01-11",
+      "end": "2027-01-13",
+      "city": "Phu Quoc",
+      "country": "Vietnam",
+      "lat": 10.2899,
+      "lng": 103.984,
+      "website": "https://semihub.io/",
+      "deadlines": [
+        {
+          "type": "paper",
+          "at": "2026-10-19T14:59:00Z",
+          "tz": "KST",
+          "timeUnknown": true
+        }
+      ],
+      "pendingNote": "2차 출처(semihub.io) 기준. 공식 공지로 재확인 필요.",
+      "description": "반도체공학회 주관 국제학술대회.",
+      "descriptionEn": "International conference hosted by a Korean semiconductor engineering society.",
+      "verified": "secondary",
+      "sources": [
+        {
+          "title": "semihub.io 반도체 학회 일정",
+          "url": "https://semihub.io/"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "semiconkorea2027",
+      "series": "semiconkorea",
+      "short": "SEMICON Korea 2027",
+      "name": "SEMICON Korea 2027",
+      "edition": 2027,
+      "categories": [
+        "IND",
+        "DEV"
+      ],
+      "region": "KR",
+      "start": "2027-02-17",
+      "end": "2027-02-19",
+      "city": "서울",
+      "venue": "COEX",
+      "country": "Korea",
+      "lat": 37.5116,
+      "lng": 127.0595,
+      "website": "https://semiconkorea.org",
+      "deadlines": [
+        {
+          "type": "abstract",
+          "label": "Abstract & Bio",
+          "at": "2026-10-18T14:59:00Z",
+          "tz": "KST",
+          "timeUnknown": true
+        }
+      ],
+      "pendingNote": "Autonomous Manufacturing·Cybersecurity Forum 초록은 2026-10-30 마감. 발표자료 마감 2027-01-31.",
+      "description": "반도체 장비·소재 산업 전시회와 컨퍼런스.",
+      "descriptionEn": "Semiconductor industry exhibition and conference.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "SEMICON Korea Call for Presentations",
+          "url": "https://semiconkorea.org/en/call-presentations"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "mrsspring2027",
+      "series": "mrsspring",
+      "short": "MRS Spring 2027",
+      "name": "MRS Spring Meeting & Exhibit",
+      "edition": 2027,
+      "categories": [
+        "MAT",
+        "QNT",
+        "DEV"
+      ],
+      "region": "INTL",
+      "start": "2027-04-05",
+      "end": "2027-04-09",
+      "city": "Seattle",
+      "country": "USA",
+      "lat": 47.6116,
+      "lng": -122.3321,
+      "website": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit",
+      "deadlines": [
+        {
+          "type": "abstract",
+          "at": "2026-10-15T03:59:00Z",
+          "tz": "ET"
+        }
+      ],
+      "description": "재료 학회. 2027 Spring 주제 클러스터: Electronics·Optics·Photonics, Quantum Materials·Heterostructures·Devices, Materials Theory·Computation·Data Science, Nanomaterials 등.",
+      "descriptionEn": "Materials meeting. Clusters include Electronics/Optics/Photonics, Quantum Materials, Materials Theory/Computation/Data Science, Nanomaterials.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "2027 MRS Spring Call for Abstracts",
+          "url": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "mrsfall2026",
+      "series": "mrsfall",
+      "short": "MRS Fall 2026",
+      "name": "MRS Fall Meeting & Exhibit",
+      "edition": 2026,
+      "categories": [
+        "MAT"
+      ],
+      "region": "INTL",
+      "start": "2026-11-29",
+      "end": "2026-12-04",
+      "city": "Boston",
+      "country": "USA",
+      "lat": 42.3478,
+      "lng": -71.088,
+      "website": "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-fall-meeting",
+      "deadlines": [],
+      "pendingNote": "초록 마감일 미확인(이미 지났을 가능성 높음).",
+      "description": "재료 학회 가을 정기 학술대회.",
+      "descriptionEn": "MRS Fall Meeting.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "2026 MRS Fall Meeting",
+          "url": "https://mrs.org/meetings-events/annual-meetings/archive/meeting/2026-mrs-fall-meeting---exhibit"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "mrsfall2027",
+      "series": "mrsfall",
+      "short": "MRS Fall 2027",
+      "name": "MRS Fall Meeting & Exhibit",
+      "edition": 2027,
+      "categories": [
+        "MAT"
+      ],
+      "region": "INTL",
+      "start": "2027-11-28",
+      "end": "2027-12-03",
+      "city": "Boston",
+      "venue": "Hynes Convention Center",
+      "country": "USA",
+      "lat": 42.3478,
+      "lng": -71.088,
+      "website": "https://www.mrs.org",
+      "deadlines": [],
+      "pendingNote": "초록 마감 미발표.",
+      "description": "재료 학회 가을 정기 학술대회.",
+      "descriptionEn": "MRS Fall Meeting.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "2027 MRS Fall Meeting",
+          "url": "https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/2027-mrs-fall-meeting-exhibit"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "emrs2027",
+      "series": "emrs",
+      "short": "E-MRS Spring 2027",
+      "name": "E-MRS Spring Meeting",
+      "edition": 2027,
+      "categories": [
+        "MAT"
+      ],
+      "region": "INTL",
+      "start": "2027-05-17",
+      "end": "2027-05-21",
+      "city": "Strasbourg",
+      "venue": "Convention & Exhibition Centre of Strasbourg",
+      "country": "France",
+      "lat": 48.5935,
+      "lng": 7.7555,
+      "website": "https://www.european-mrs.com",
+      "deadlines": [],
+      "pendingNote": "초록 마감 미확인.",
+      "description": "유럽 재료학회 봄 학술대회.",
+      "descriptionEn": "European MRS Spring Meeting.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "E-MRS Spring 2027 symposia",
+          "url": "https://www.european-mrs.com/node/3852"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "nanokorea2027",
+      "series": "nanokorea",
+      "short": "NANO KOREA 2027",
+      "name": "NANO KOREA 2027",
+      "edition": 2027,
+      "categories": [
+        "MAT",
+        "IND"
+      ],
+      "region": "KR",
+      "start": "2027-07-07",
+      "end": "2027-07-09",
+      "city": "고양",
+      "venue": "KINTEX 제1전시장",
+      "country": "Korea",
+      "lat": 37.668,
+      "lng": 126.745,
+      "website": "https://www.nanokorea.or.kr",
+      "deadlines": [],
+      "pendingNote": "심포지엄 초록 마감 미발표.",
+      "description": "나노기술 전시회 및 심포지엄.",
+      "descriptionEn": "Nanotechnology exhibition and symposium.",
+      "verified": "secondary",
+      "sources": [
+        {
+          "title": "IVAM: NANO KOREA 2027",
+          "url": "https://www.ivam.de/events/nano-korea-2027?lang=en"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "apsgps2027",
+      "series": "apsgps",
+      "short": "APS Summit 2027",
+      "name": "APS Global Physics Summit (March Meeting)",
+      "edition": 2027,
+      "categories": [
+        "PHY",
+        "QNT",
+        "MAT"
+      ],
+      "region": "INTL",
+      "start": "2027-04-11",
+      "end": "2027-04-16",
+      "city": "Atlanta",
+      "venue": "Georgia World Congress Center 외",
+      "country": "USA",
+      "lat": 33.759,
+      "lng": -84.397,
+      "website": "https://summit.aps.org",
+      "deadlines": [
+        {
+          "type": "abstract",
+          "at": "2026-10-23T03:59:00Z",
+          "tz": "ET",
+          "timeUnknown": true
+        }
+      ],
+      "pendingNote": "초록 접수 기간 2026-09-09 ~ 10-22. 마감 시각은 공식 사이트에서 확인.",
+      "description": "미국물리학회 연례 학술대회(구 March Meeting). 응집물질·양자·재료 물리 등.",
+      "descriptionEn": "APS annual summit (formerly March Meeting).",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "APS Global Physics Summit — About",
+          "url": "https://summit.aps.org/about"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "kpsfall2026",
+      "series": "kpsfall",
+      "short": "KPS Fall 2026",
+      "name": "2026 KPS Fall Meeting",
+      "nameKo": "한국물리학회 2026 가을 학술논문발표회",
+      "edition": 2026,
+      "categories": [
+        "PHY"
+      ],
+      "region": "KR",
+      "start": "2026-10-21",
+      "end": "2026-10-23",
+      "city": "제주",
+      "venue": "ICC Jeju",
+      "country": "Korea",
+      "lat": 33.2397,
+      "lng": 126.4125,
+      "website": "https://www.kps.or.kr/conference/event/",
+      "deadlines": [
+        {
+          "type": "abstract",
+          "at": "2026-08-31T14:59:00Z",
+          "tz": "KST",
+          "timeUnknown": true
+        },
+        {
+          "type": "registration",
+          "label": "온라인 사전등록",
+          "at": "2026-10-12T08:00:00Z",
+          "tz": "KST 17:00"
+        }
+      ],
+      "description": "한국물리학회 정기 학술대회(가을).",
+      "descriptionEn": "Korean Physical Society Fall Meeting.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "KPS 2026 Fall Meeting",
+          "url": "https://www.kps.or.kr/conference/event/"
+        },
+        {
+          "title": "KPS Future Meetings",
+          "url": "https://kpstest.inforang.com/content/conference/meeting_future.php"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "kpsspring2027",
+      "series": "kpsspring",
+      "short": "KPS Spring 2027",
+      "name": "2027 KPS Spring Meeting",
+      "nameKo": "한국물리학회 2027 봄 학술논문발표회",
+      "edition": 2027,
+      "categories": [
+        "PHY"
+      ],
+      "region": "KR",
+      "start": "2027-04-21",
+      "end": "2027-04-23",
+      "city": "대전",
+      "venue": "대전컨벤션센터(DCC)",
+      "country": "Korea",
+      "lat": 36.3755,
+      "lng": 127.3916,
+      "website": "https://www.kps.or.kr",
+      "deadlines": [],
+      "pendingNote": "초록 마감 미발표.",
+      "description": "한국물리학회 정기 학술대회(봄).",
+      "descriptionEn": "Korean Physical Society Spring Meeting.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "KPS Future Meetings",
+          "url": "https://kpstest.inforang.com/content/conference/meeting_future.php"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "kpsfall2027",
+      "series": "kpsfall",
+      "short": "KPS Fall 2027",
+      "name": "2027 KPS Fall Meeting",
+      "nameKo": "한국물리학회 2027 가을 학술논문발표회",
+      "edition": 2027,
+      "categories": [
+        "PHY"
+      ],
+      "region": "KR",
+      "start": "2027-10-20",
+      "end": "2027-10-22",
+      "city": "경주",
+      "venue": "경주화백컨벤션센터(HICO)",
+      "country": "Korea",
+      "lat": 35.838,
+      "lng": 129.2864,
+      "website": "https://www.kps.or.kr",
+      "deadlines": [],
+      "pendingNote": "초록 마감 미발표.",
+      "description": "한국물리학회 정기 학술대회(가을).",
+      "descriptionEn": "Korean Physical Society Fall Meeting.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "KPS Future Meetings",
+          "url": "https://kpstest.inforang.com/content/conference/meeting_future.php"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "qip2027",
+      "series": "qip",
+      "short": "QIP 2027",
+      "name": "Quantum Information Processing",
+      "edition": 2027,
+      "categories": [
+        "QNT"
+      ],
+      "region": "INTL",
+      "start": "2027-02-20",
+      "end": "2027-02-26",
+      "city": "Singapore",
+      "country": "Singapore",
+      "lat": 1.2903,
+      "lng": 103.852,
+      "website": "https://qipconference.org/2027/",
+      "deadlines": [
+        {
+          "type": "paper",
+          "label": "Talk",
+          "at": "2026-10-06T11:59:00Z",
+          "tz": "AoE"
+        },
+        {
+          "type": "poster",
+          "at": "2026-12-05T11:59:00Z",
+          "tz": "AoE"
+        }
+      ],
+      "pendingNote": "Talk 제출은 9/28까지 등록한 경우에만 10/5 마감 적용.",
+      "description": "양자정보처리 학회.",
+      "descriptionEn": "Quantum information processing conference.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "QIP 2027 Call for Submissions",
+          "url": "https://qipconference.org/2027/call/"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "aicas2027",
+      "series": "aicas",
+      "short": "AICAS 2027",
+      "name": "IEEE International Conference on Artificial Intelligence Circuits and Systems",
+      "edition": 2027,
+      "categories": [
+        "NEU",
+        "CIR"
+      ],
+      "region": "INTL",
+      "start": "2027-09-20",
+      "end": "2027-09-22",
+      "city": "Hangzhou",
+      "venue": "Midtown Shangri-La Hotel",
+      "country": "China",
+      "lat": 30.2741,
+      "lng": 120.1551,
+      "website": "https://ieee-cas.org/event/conference/2027-ieee-9th-international-conference-artificial-intelligence-circuits-and",
+      "deadlines": [],
+      "pendingNote": "논문 마감 미발표. APCCAS와 공동 개최.",
+      "description": "AI 회로·시스템(가속기, 뉴로모픽 하드웨어 등) 학회.",
+      "descriptionEn": "AI circuits and systems.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "IEEE CAS: AICAS 2027",
+          "url": "https://ieee-cas.org/event/conference/2027-ieee-9th-international-conference-artificial-intelligence-circuits-and"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "cleo2027",
+      "series": "cleo",
+      "short": "CLEO 2027",
+      "name": "Conference on Lasers and Electro-Optics",
+      "edition": 2027,
+      "categories": [
+        "OPT",
+        "QNT"
+      ],
+      "region": "INTL",
+      "start": "2027-05-02",
+      "end": "2027-05-07",
+      "city": "Long Beach",
+      "venue": "Long Beach Convention & Entertainment Center",
+      "country": "USA",
+      "lat": 33.764,
+      "lng": -118.189,
+      "website": "https://www.cleoconference.org",
+      "deadlines": [],
+      "pendingNote": "논문 마감 미확인.",
+      "description": "레이저·광전자 학회.",
+      "descriptionEn": "Lasers and electro-optics.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "Optica events: CLEO 2027",
+          "url": "https://www.optica.org/events/global_calendar/events/2027/conference_on_lasers_and_electro-optics_(1)"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "pw2027",
+      "series": "pw",
+      "short": "Photonics West 2027",
+      "name": "SPIE Photonics West",
+      "edition": 2027,
+      "categories": [
+        "OPT"
+      ],
+      "region": "INTL",
+      "start": "2027-01-30",
+      "end": "2027-02-04",
+      "city": "San Francisco",
+      "venue": "Moscone Center",
+      "country": "USA",
+      "lat": 37.7843,
+      "lng": -122.4016,
+      "website": "https://spie.org/photonics-west",
+      "deadlines": [],
+      "pendingNote": "초록 마감 미확인.",
+      "description": "광학·포토닉스 학회 및 전시회.",
+      "descriptionEn": "Optics and photonics conference & exhibition.",
+      "verified": "secondary",
+      "sources": [
+        {
+          "title": "Fraunhofer IPMS: SPIE Photonics West 2027",
+          "url": "https://www.ipms.fraunhofer.de/en/events/2027/SPIE-PhotonicsWest.html"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "icps2026",
+      "series": "icps",
+      "short": "ICPS 2026",
+      "name": "International Conference on the Physics of Semiconductors",
+      "edition": 2026,
+      "categories": [
+        "PHY",
+        "DEV",
+        "QNT"
+      ],
+      "region": "INTL",
+      "start": "2026-08-16",
+      "end": "2026-08-21",
+      "city": "Tokyo",
+      "venue": "Keio Plaza Hotel",
+      "country": "Japan",
+      "lat": 35.6913,
+      "lng": 139.695,
+      "website": "https://pub.confit.atlas.jp/en/event/icps2026",
+      "deadlines": [],
+      "pendingNote": "종료. 격년 개최 — 다음 회차 일정 미확인.",
+      "description": "반도체 물리 국제학회.",
+      "descriptionEn": "Physics of semiconductors.",
+      "verified": "secondary",
+      "sources": [
+        {
+          "title": "Bluefors: ICPS 2026",
+          "url": "https://bluefors.com/events/icps-2026/"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "ssdm2026",
+      "series": "ssdm",
+      "short": "SSDM 2026",
+      "name": "International Conference on Solid State Devices and Materials",
+      "edition": 2026,
+      "categories": [
+        "DEV",
+        "MAT"
+      ],
+      "region": "INTL",
+      "start": "2026-09-14",
+      "end": "2026-09-17",
+      "city": "Nagasaki",
+      "country": "Japan",
+      "lat": 32.7503,
+      "lng": 129.8777,
+      "website": "https://www.imec-int.com/en/events/ssdm2026",
+      "deadlines": [],
+      "pendingNote": "종료. 2027 일정 미확인.",
+      "description": "고체 소자·재료 학회.",
+      "descriptionEn": "Solid state devices and materials.",
+      "verified": "secondary",
+      "sources": [
+        {
+          "title": "imec: SSDM 2026",
+          "url": "https://www.imec-int.com/en/events/ssdm2026"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "drc2026",
+      "series": "drc",
+      "short": "DRC 2026",
+      "name": "Device Research Conference",
+      "edition": 2026,
+      "categories": [
+        "DEV"
+      ],
+      "region": "INTL",
+      "start": "2026-06-21",
+      "end": "2026-06-24",
+      "city": "Ann Arbor",
+      "country": "USA",
+      "lat": 42.2808,
+      "lng": -83.743,
+      "website": "https://www.imec-int.com/en/events/drc-2026",
+      "deadlines": [],
+      "pendingNote": "종료. 2027 일정 미확인.",
+      "description": "소자 연구 학회.",
+      "descriptionEn": "Device research conference.",
+      "verified": "secondary",
+      "sources": [
+        {
+          "title": "imec: DRC 2026",
+          "url": "https://www.imec-int.com/en/events/drc-2026"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    },
+    {
+      "id": "imw2026",
+      "series": "imw",
+      "short": "IMW 2026",
+      "name": "IEEE International Memory Workshop",
+      "edition": 2026,
+      "categories": [
+        "DEV",
+        "NEU"
+      ],
+      "region": "INTL",
+      "start": "2026-05-10",
+      "end": "2026-05-13",
+      "city": "Leuven",
+      "country": "Belgium",
+      "lat": 50.8798,
+      "lng": 4.7005,
+      "website": "https://ewh.ieee.org/soc/eds/imw/",
+      "deadlines": [
+        {
+          "type": "paper",
+          "at": "2026-02-01T22:59:00Z",
+          "tz": "CET",
+          "timeUnknown": true
+        }
+      ],
+      "pendingNote": "종료. 2027 일정 미확인.",
+      "description": "메모리 소자·기술 워크숍.",
+      "descriptionEn": "Memory technology workshop.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "IMW 2026 CFP (PDF)",
+          "url": "https://ewh.ieee.org/soc/eds/imw/imw2026_Call_for_Papers.pdf"
+        }
+      ],
+      "lastChecked": "2026-10-13"
+    }
+  ]
+}
