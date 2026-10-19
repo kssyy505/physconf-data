@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2026-10-13",
-  "updatedAt": "2026-10-13T09:00:00+09:00",
+  "version": "2026-10-19",
+  "updatedAt": "2026-10-19T09:16:19+09:00",
   "categories": [
     {
       "id": "DEV",
@@ -95,7 +95,40 @@
           "url": "https://ieee-iedm.org/wp-content/uploads/2026/07/IEDM-2026-Call-for-Papers-FINAL.pdf"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
+    },
+    {
+      "id": "iedm2027",
+      "series": "iedm",
+      "short": "IEDM 2027",
+      "name": "IEEE International Electron Devices Meeting",
+      "edition": 2027,
+      "categories": [
+        "DEV",
+        "NEU",
+        "QNT"
+      ],
+      "region": "INTL",
+      "start": "2027-12-04",
+      "end": "2027-12-08",
+      "city": "San Francisco",
+      "venue": "Hilton San Francisco Union Square",
+      "country": "USA",
+      "lat": 37.7856,
+      "lng": -122.4103,
+      "website": "https://www.ieee-iedm.org",
+      "deadlines": [],
+      "pendingNote": "논문 마감 미발표.",
+      "description": "전자소자 분야 학회.",
+      "descriptionEn": "Electron devices meeting.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "IEDM Future Conferences",
+          "url": "https://ieee-iedm.org/about/future-conferences/"
+        }
+      ],
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "isscc2027",
@@ -131,7 +164,7 @@
           "url": "https://sscs.ieee.org/wp-content/uploads/ISSCC2027CFP.pdf"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "vlsi2027",
@@ -172,7 +205,7 @@
           "url": "https://www.vlsisymposium.org/"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "irps2027",
@@ -219,7 +252,38 @@
           "url": "https://www.irps.org/future-conferences-3"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
+    },
+    {
+      "id": "irps2028",
+      "series": "irps",
+      "short": "IRPS 2028",
+      "name": "IEEE International Reliability Physics Symposium",
+      "edition": 2028,
+      "categories": [
+        "DEV"
+      ],
+      "region": "INTL",
+      "start": "2028-04-23",
+      "end": "2028-04-27",
+      "city": "Long Beach",
+      "venue": "Hyatt Regency Long Beach",
+      "country": "USA",
+      "lat": 33.764,
+      "lng": -118.189,
+      "website": "https://www.irps.org",
+      "deadlines": [],
+      "pendingNote": "초록 마감 미발표.",
+      "description": "반도체 소자·회로의 신뢰성 물리를 다루는 심포지엄.",
+      "descriptionEn": "Reliability physics of semiconductor devices and circuits.",
+      "verified": "primary",
+      "sources": [
+        {
+          "title": "IRPS Future Conferences",
+          "url": "https://www.irps.org/future-conferences-3"
+        }
+      ],
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "edtm2027",
@@ -238,8 +302,16 @@
       "lat": 33.5902,
       "lng": 130.4017,
       "website": "https://attend.ieee.org/edtm-2027",
-      "deadlines": [],
-      "pendingNote": "논문 제출 기간이 \"Early August ~ Mid-October, 2026\"으로만 공지됨 — 정확한 마감일 미확인.",
+      "deadlines": [
+        {
+          "type": "registration",
+          "label": "얼리버드 등록",
+          "at": "2027-01-31T14:59:00Z",
+          "tz": "JST",
+          "timeUnknown": true
+        }
+      ],
+      "pendingNote": "논문 제출 기간이 \"Early August ~ Mid-October, 2026\"으로만 공지됨 — 정확한 마감일 미확인. 얼리버드 등록 마감 2027-01-31 (시간대 미표기, 개최지 JST 가정).",
       "description": "전자소자 기술과 제조를 다루는 IEEE EDS 학회.",
       "descriptionEn": "IEEE EDS conference on electron device technology and manufacturing.",
       "verified": "primary",
@@ -249,7 +321,7 @@
           "url": "https://attend.ieee.org/edtm-2027"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "ispsd2027",
@@ -268,7 +340,7 @@
       "country": "Taiwan",
       "lat": 25.0336,
       "lng": 121.5602,
-      "website": "https://semihub.io/",
+      "website": "https://www.ispsd2027.com",
       "deadlines": [
         {
           "type": "paper",
@@ -277,17 +349,21 @@
           "timeUnknown": true
         }
       ],
-      "pendingNote": "2차 출처(semihub.io) 기준. 공식 CFP로 재확인 필요.",
+      "pendingNote": "논문 마감(12/16)·채택 통보(2027-01-29)는 공식 사이트 확인 (시간대 미표기, 타이베이 시간 가정). 개최일·장소는 2차 출처(semihub.io) 기준.",
       "description": "전력 반도체 소자·IC 심포지엄.",
       "descriptionEn": "Power semiconductor devices and ICs.",
-      "verified": "secondary",
+      "verified": "primary",
       "sources": [
+        {
+          "title": "ISPSD 2027 공식 홈페이지",
+          "url": "https://www.ispsd2027.com"
+        },
         {
           "title": "semihub.io 반도체 학회 일정",
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "spieal2027",
@@ -318,7 +394,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "kcs2027",
@@ -363,7 +439,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "icos2027",
@@ -380,29 +456,41 @@
       "start": "2027-01-11",
       "end": "2027-01-13",
       "city": "Phu Quoc",
+      "venue": "Corona Convention Center",
       "country": "Vietnam",
       "lat": 10.2899,
       "lng": 103.984,
-      "website": "https://semihub.io/",
+      "website": "https://event.theise.org/icos/",
       "deadlines": [
         {
           "type": "paper",
-          "at": "2026-10-19T14:59:00Z",
+          "at": "2026-11-01T14:59:00Z",
+          "tz": "KST",
+          "timeUnknown": true
+        },
+        {
+          "type": "registration",
+          "label": "조기등록",
+          "at": "2026-12-07T14:59:00Z",
           "tz": "KST",
           "timeUnknown": true
         }
       ],
-      "pendingNote": "2차 출처(semihub.io) 기준. 공식 공지로 재확인 필요.",
+      "pendingNote": "공식 사이트(event.theise.org) 기준 논문 마감 11/1, 채택 통보 11/16, 조기등록 12/7 (시간대 미표기, KST 가정). 2차 출처 semihub.io의 10/19와 달라 공식 값 사용 (2026-10-19 확인).",
       "description": "반도체공학회 주관 국제학술대회.",
       "descriptionEn": "International conference hosted by a Korean semiconductor engineering society.",
-      "verified": "secondary",
+      "verified": "primary",
       "sources": [
+        {
+          "title": "ICOS 2027 공식 홈페이지",
+          "url": "https://event.theise.org/icos/"
+        },
         {
           "title": "semihub.io 반도체 학회 일정",
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "semiconkorea2027",
@@ -442,7 +530,7 @@
           "url": "https://semiconkorea.org/en/call-presentations"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "mrsspring2027",
@@ -479,7 +567,7 @@
           "url": "https://www.mrs.org/meetings-events/annual-meetings/2027-mrs-spring-meeting-exhibit/call-for-abstracts"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "mrsfall2026",
@@ -509,7 +597,7 @@
           "url": "https://mrs.org/meetings-events/annual-meetings/archive/meeting/2026-mrs-fall-meeting---exhibit"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "mrsfall2027",
@@ -540,7 +628,7 @@
           "url": "https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/2027-mrs-fall-meeting-exhibit"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "emrs2027",
@@ -571,7 +659,7 @@
           "url": "https://www.european-mrs.com/node/3852"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "nanokorea2027",
@@ -603,7 +691,7 @@
           "url": "https://www.ivam.de/events/nano-korea-2027?lang=en"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "apsgps2027",
@@ -643,7 +731,7 @@
           "url": "https://summit.aps.org/about"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "kpsfall2026",
@@ -691,7 +779,7 @@
           "url": "https://kpstest.inforang.com/content/conference/meeting_future.php"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "kpsspring2027",
@@ -723,7 +811,7 @@
           "url": "https://kpstest.inforang.com/content/conference/meeting_future.php"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "kpsfall2027",
@@ -755,7 +843,7 @@
           "url": "https://kpstest.inforang.com/content/conference/meeting_future.php"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "qip2027",
@@ -797,7 +885,7 @@
           "url": "https://qipconference.org/2027/call/"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "aicas2027",
@@ -829,7 +917,7 @@
           "url": "https://ieee-cas.org/event/conference/2027-ieee-9th-international-conference-artificial-intelligence-circuits-and"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "cleo2027",
@@ -850,18 +938,29 @@
       "lat": 33.764,
       "lng": -118.189,
       "website": "https://www.cleoconference.org",
-      "deadlines": [],
-      "pendingNote": "논문 마감 미확인.",
+      "deadlines": [
+        {
+          "type": "abstract",
+          "label": "Abstract & Summary",
+          "at": "2026-11-24T07:59:00Z",
+          "tz": "PT"
+        }
+      ],
+      "pendingNote": "포스트데드라인 논문 마감 미발표.",
       "description": "레이저·광전자 학회.",
       "descriptionEn": "Lasers and electro-optics.",
       "verified": "primary",
       "sources": [
         {
+          "title": "CLEO 2027 Call for Papers",
+          "url": "https://cleoconference.org/2027-call-for-papers/"
+        },
+        {
           "title": "Optica events: CLEO 2027",
           "url": "https://www.optica.org/events/global_calendar/events/2027/conference_on_lasers_and_electro-optics_(1)"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "pw2027",
@@ -892,7 +991,7 @@
           "url": "https://www.ipms.fraunhofer.de/en/events/2027/SPIE-PhotonicsWest.html"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     },
     {
       "id": "icps2026",
@@ -989,42 +1088,35 @@
       "lastChecked": "2026-10-13"
     },
     {
-      "id": "imw2026",
+      "id": "imw2027",
       "series": "imw",
-      "short": "IMW 2026",
+      "short": "IMW 2027",
       "name": "IEEE International Memory Workshop",
-      "edition": 2026,
+      "edition": 2027,
       "categories": [
         "DEV",
         "NEU"
       ],
       "region": "INTL",
-      "start": "2026-05-10",
-      "end": "2026-05-13",
-      "city": "Leuven",
-      "country": "Belgium",
-      "lat": 50.8798,
-      "lng": 4.7005,
+      "start": "2027-05-09",
+      "end": "2027-05-12",
+      "city": "Monterey",
+      "country": "USA",
+      "lat": 36.6002,
+      "lng": -121.8947,
       "website": "https://ewh.ieee.org/soc/eds/imw/",
-      "deadlines": [
-        {
-          "type": "paper",
-          "at": "2026-02-01T22:59:00Z",
-          "tz": "CET",
-          "timeUnknown": true
-        }
-      ],
-      "pendingNote": "종료. 2027 일정 미확인.",
+      "deadlines": [],
+      "pendingNote": "논문 마감 미발표 (공식 사이트 Key Dates에 마감일 없음).",
       "description": "메모리 소자·기술 워크숍.",
       "descriptionEn": "Memory technology workshop.",
       "verified": "primary",
       "sources": [
         {
-          "title": "IMW 2026 CFP (PDF)",
-          "url": "https://ewh.ieee.org/soc/eds/imw/imw2026_Call_for_Papers.pdf"
+          "title": "IEEE IMW 2027",
+          "url": "https://ewh.ieee.org/soc/eds/imw/"
         }
       ],
-      "lastChecked": "2026-10-13"
+      "lastChecked": "2026-10-19"
     }
   ]
 }
