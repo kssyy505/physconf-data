@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2026-10-19",
-  "updatedAt": "2026-10-19T09:16:19+09:00",
+  "version": "2026-10-26",
+  "updatedAt": "2026-10-26T12:37:24+09:00",
   "categories": [
     {
       "id": "DEV",
@@ -128,7 +128,7 @@
           "url": "https://ieee-iedm.org/about/future-conferences/"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "isscc2027",
@@ -164,7 +164,7 @@
           "url": "https://sscs.ieee.org/wp-content/uploads/ISSCC2027CFP.pdf"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "vlsi2027",
@@ -205,7 +205,7 @@
           "url": "https://www.vlsisymposium.org/"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "irps2027",
@@ -252,7 +252,7 @@
           "url": "https://www.irps.org/future-conferences-3"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "irps2028",
@@ -283,7 +283,7 @@
           "url": "https://www.irps.org/future-conferences-3"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "edtm2027",
@@ -311,7 +311,7 @@
           "timeUnknown": true
         }
       ],
-      "pendingNote": "논문 제출 기간이 \"Early August ~ Mid-October, 2026\"으로만 공지됨 — 정확한 마감일 미확인. 얼리버드 등록 마감 2027-01-31 (시간대 미표기, 개최지 JST 가정).",
+      "pendingNote": "논문 제출 마감: 공식 페이지에 \"October 15th, 2026 (JST)\"와 \"October 30th, 2026 (JST)\"가 병기되어 어느 쪽이 유효한지 불명확(10/30 연장 가능성, 2026-10-26 확인) — 마감 미등록. 채택 통보 2026년 12월 말, 얼리버드 등록 마감 2027-01-31 (시간대 미표기, 개최지 JST 가정).",
       "description": "전자소자 기술과 제조를 다루는 IEEE EDS 학회.",
       "descriptionEn": "IEEE EDS conference on electron device technology and manufacturing.",
       "verified": "primary",
@@ -321,7 +321,7 @@
           "url": "https://attend.ieee.org/edtm-2027"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "ispsd2027",
@@ -363,7 +363,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "spieal2027",
@@ -439,7 +439,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "icos2027",
@@ -490,7 +490,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "semiconkorea2027",
@@ -659,7 +659,7 @@
           "url": "https://www.european-mrs.com/node/3852"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "nanokorea2027",
@@ -716,12 +716,12 @@
       "deadlines": [
         {
           "type": "abstract",
-          "at": "2026-10-23T03:59:00Z",
+          "at": "2026-10-30T03:59:00Z",
           "tz": "ET",
           "timeUnknown": true
         }
       ],
-      "pendingNote": "초록 접수 기간 2026-09-09 ~ 10-22. 마감 시각은 공식 사이트에서 확인.",
+      "pendingNote": "초록 접수 마감 10/22→10/29 연장 (2026-10-26 확인). 공식 페이지에 시각·시간대 미표기 — 미국 동부 23:59 가정.",
       "description": "미국물리학회 연례 학술대회(구 March Meeting). 응집물질·양자·재료 물리 등.",
       "descriptionEn": "APS annual summit (formerly March Meeting).",
       "verified": "primary",
@@ -731,7 +731,7 @@
           "url": "https://summit.aps.org/about"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "kpsfall2026",
@@ -779,7 +779,7 @@
           "url": "https://kpstest.inforang.com/content/conference/meeting_future.php"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "kpsspring2027",
@@ -885,7 +885,7 @@
           "url": "https://qipconference.org/2027/call/"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "aicas2027",
@@ -917,7 +917,7 @@
           "url": "https://ieee-cas.org/event/conference/2027-ieee-9th-international-conference-artificial-intelligence-circuits-and"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     },
     {
       "id": "cleo2027",
@@ -1116,7 +1116,7 @@
           "url": "https://ewh.ieee.org/soc/eds/imw/"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-10-26"
     }
   ]
 }

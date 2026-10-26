@@ -1,5 +1,16 @@
 # 변경 내역
 
+## 2026-10-26 — 주간 업데이트 (변경 2건)
+**값 변경**
+- **APS Global Physics Summit 2027** — 초록 접수 마감 2026-10-22 → **2026-10-29** 연장 (공식 페이지 "Sept. 9 to Oct. 29, 2026"). 시각·시간대 미표기라 미국 동부 23:59 가정(`2026-10-30T03:59:00Z`, `timeUnknown`). 출처: https://summit.aps.org/about
+
+**주의 (마감 미등록)**
+- **EDTM 2027** — 공식 Important Dates에 논문 마감 "October 15th, 2026 (JST)"와 "October 30th, 2026 (JST)"가 병기되어 어느 쪽이 유효한지 불명확. 추정하지 않고 마감은 등록하지 않음, pendingNote에 기록. 출처: https://attend.ieee.org/edtm-2027/
+
+**참고 (데이터 변경 없음)**
+- IEDM 2027, IRPS 2027/2028, KCS 2027, ICOS 2027, QIP 2027, ISSCC 2027, VLSI 2027, ISPSD 2027, IMW 2027, E-MRS 2027, AICAS 2027, KPS 2026 가을은 공식 페이지와 일치 확인.
+- SEMICON Korea, MRS, CLEO 공식 사이트는 접속 차단(403)으로 재확인하지 못함(기존 값 유지). SPIE, nanoKorea, KPS 2027 봄/가을, ICPS/SSDM/DRC 다음 회차는 새 정보를 찾지 못함.
+
 ## 2026-10-19 — 주간 업데이트 (변경 8건)
 **값 변경·보강**
 - **ICOS 2027** — 논문 마감 2026-10-19 → **2026-11-01** 정정(공식 사이트 기준, 2차 출처 semihub.io 값과 달라 공식 값 사용; 시간대 미표기라 KST 가정, `timeUnknown`). 조기등록 마감 2026-12-07 추가, 개최지 Corona Convention Center 확인, 공식 출처로 전환(`verified: primary`). 출처: https://event.theise.org/icos/
