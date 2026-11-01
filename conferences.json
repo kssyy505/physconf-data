@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2026-10-26",
-  "updatedAt": "2026-10-26T12:37:24+09:00",
+  "version": "2026-11-01",
+  "updatedAt": "2026-11-01T12:00:00+09:00",
   "categories": [
     {
       "id": "DEV",
@@ -128,7 +128,7 @@
           "url": "https://ieee-iedm.org/about/future-conferences/"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "isscc2027",
@@ -205,7 +205,7 @@
           "url": "https://www.vlsisymposium.org/"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "irps2027",
@@ -252,7 +252,7 @@
           "url": "https://www.irps.org/future-conferences-3"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "irps2028",
@@ -304,6 +304,11 @@
       "website": "https://attend.ieee.org/edtm-2027",
       "deadlines": [
         {
+          "type": "paper",
+          "at": "2026-10-30T14:59:00Z",
+          "tz": "JST 23:59"
+        },
+        {
           "type": "registration",
           "label": "얼리버드 등록",
           "at": "2027-01-31T14:59:00Z",
@@ -311,7 +316,7 @@
           "timeUnknown": true
         }
       ],
-      "pendingNote": "논문 제출 마감: 공식 페이지에 \"October 15th, 2026 (JST)\"와 \"October 30th, 2026 (JST)\"가 병기되어 어느 쪽이 유효한지 불명확(10/30 연장 가능성, 2026-10-26 확인) — 마감 미등록. 채택 통보 2026년 12월 말, 얼리버드 등록 마감 2027-01-31 (시간대 미표기, 개최지 JST 가정).",
+      "pendingNote": "논문 마감 10/15→10/30 23:59 JST로 연장 확정 (공식 공지, 2026-11-01 확인; 이미 마감됨). 채택 통보 2026년 12월 말, 얼리버드 등록 마감 2027-01-31 (시간대 미표기, 개최지 JST 가정).",
       "description": "전자소자 기술과 제조를 다루는 IEEE EDS 학회.",
       "descriptionEn": "IEEE EDS conference on electron device technology and manufacturing.",
       "verified": "primary",
@@ -321,7 +326,7 @@
           "url": "https://attend.ieee.org/edtm-2027"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "ispsd2027",
@@ -439,7 +444,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "icos2027",
@@ -453,7 +458,7 @@
         "CIR"
       ],
       "region": "INTL",
-      "start": "2027-01-11",
+      "start": "2027-01-10",
       "end": "2027-01-13",
       "city": "Phu Quoc",
       "venue": "Corona Convention Center",
@@ -464,7 +469,7 @@
       "deadlines": [
         {
           "type": "paper",
-          "at": "2026-11-01T14:59:00Z",
+          "at": "2026-11-10T14:59:00Z",
           "tz": "KST",
           "timeUnknown": true
         },
@@ -476,7 +481,7 @@
           "timeUnknown": true
         }
       ],
-      "pendingNote": "공식 사이트(event.theise.org) 기준 논문 마감 11/1, 채택 통보 11/16, 조기등록 12/7 (시간대 미표기, KST 가정). 2차 출처 semihub.io의 10/19와 달라 공식 값 사용 (2026-10-19 확인).",
+      "pendingNote": "공식 사이트(event.theise.org) 기준 논문 마감 11/10 (기존 11/1에서 변경, 2026-11-01 확인), 채택 통보 11/16, 조기등록 12/7 (시간대 미표기, KST 가정). 개최일 1/11→1/10 시작으로 정정.",
       "description": "반도체공학회 주관 국제학술대회.",
       "descriptionEn": "International conference hosted by a Korean semiconductor engineering society.",
       "verified": "primary",
@@ -490,7 +495,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "semiconkorea2027",
@@ -597,7 +602,7 @@
           "url": "https://mrs.org/meetings-events/annual-meetings/archive/meeting/2026-mrs-fall-meeting---exhibit"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "mrsfall2027",
@@ -628,7 +633,7 @@
           "url": "https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/2027-mrs-fall-meeting-exhibit"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "emrs2027",
@@ -731,7 +736,7 @@
           "url": "https://summit.aps.org/about"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "kpsfall2026",
@@ -885,7 +890,7 @@
           "url": "https://qipconference.org/2027/call/"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-01"
     },
     {
       "id": "aicas2027",
