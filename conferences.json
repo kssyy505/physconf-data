@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2026-11-01",
-  "updatedAt": "2026-11-01T12:00:00+09:00",
+  "version": "2026-11-15",
+  "updatedAt": "2026-11-15T12:00:00+09:00",
   "categories": [
     {
       "id": "DEV",
@@ -128,7 +128,7 @@
           "url": "https://ieee-iedm.org/about/future-conferences/"
         }
       ],
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "isscc2027",
@@ -205,7 +205,7 @@
           "url": "https://www.vlsisymposium.org/"
         }
       ],
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "irps2027",
@@ -252,7 +252,7 @@
           "url": "https://www.irps.org/future-conferences-3"
         }
       ],
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "irps2028",
@@ -283,7 +283,7 @@
           "url": "https://www.irps.org/future-conferences-3"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "edtm2027",
@@ -368,7 +368,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "spieal2027",
@@ -425,12 +425,12 @@
       "deadlines": [
         {
           "type": "abstract",
-          "at": "2026-10-23T14:59:00Z",
+          "at": "2026-11-06T14:59:00Z",
           "tz": "KST",
           "timeUnknown": true
         }
       ],
-      "pendingNote": "초록 채택 통보 2026-12-16, 사전등록 마감 2027-01-15 (공식 페이지). 개최일·장소는 2차 출처(semihub.io).",
+      "pendingNote": "초록 마감 10/23→11/6 연장 (공식 페이지 \"초록 접수 연장 마감\", 2026-11-15 확인; 시각 미표기, KST 23:59 가정). 초록 채택 통보 2026-12-16, 사전등록 마감 2027-01-15 (공식 페이지). 개최일·장소는 2차 출처(semihub.io).",
       "description": "국내 반도체 학술대회. 소자·공정·회로·재료 등 반도체 전반.",
       "descriptionEn": "Korean Conference on Semiconductors.",
       "verified": "primary",
@@ -444,7 +444,7 @@
           "url": "https://semihub.io/"
         }
       ],
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "icos2027",
@@ -653,8 +653,14 @@
       "lat": 48.5935,
       "lng": 7.7555,
       "website": "https://www.european-mrs.com",
-      "deadlines": [],
-      "pendingNote": "초록 마감 미확인.",
+      "deadlines": [
+        {
+          "type": "abstract",
+          "at": "2027-01-20T22:59:00Z",
+          "tz": "CET 23:59"
+        }
+      ],
+      "pendingNote": "초록 마감 2027-01-20 23:59 파리 시간 (공식 페이지, 2026-11-15 확인; 지연 접수 불가).",
       "description": "유럽 재료학회 봄 학술대회.",
       "descriptionEn": "European MRS Spring Meeting.",
       "verified": "primary",
@@ -664,7 +670,7 @@
           "url": "https://www.european-mrs.com/node/3852"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "nanokorea2027",
@@ -736,7 +742,7 @@
           "url": "https://summit.aps.org/about"
         }
       ],
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "kpsfall2026",
@@ -890,7 +896,7 @@
           "url": "https://qipconference.org/2027/call/"
         }
       ],
-      "lastChecked": "2026-11-01"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "aicas2027",
@@ -965,7 +971,7 @@
           "url": "https://www.optica.org/events/global_calendar/events/2027/conference_on_lasers_and_electro-optics_(1)"
         }
       ],
-      "lastChecked": "2026-10-19"
+      "lastChecked": "2026-11-15"
     },
     {
       "id": "pw2027",
@@ -1121,7 +1127,7 @@
           "url": "https://ewh.ieee.org/soc/eds/imw/"
         }
       ],
-      "lastChecked": "2026-10-26"
+      "lastChecked": "2026-11-15"
     }
   ]
 }
